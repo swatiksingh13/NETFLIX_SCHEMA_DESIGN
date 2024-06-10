@@ -1,7 +1,7 @@
 # NETFLIX_SCHEMA_DESIGN
-Design Database Schema for a system like Netflix with the following Use Cases. 
+**Design Database Schema for a system like Netflix with the following Use Cases.**
 
-Use Cases
+## Use Cases
 1. Netflix has users.
 2. Every user has an email and a password.
 3. Users can create profiles to have separate independent environments.
